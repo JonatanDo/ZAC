@@ -5,15 +5,14 @@ There are 4 folders:
 1. Architecture: Here you can see the ZAC architecture design and the team pics during the NASA Hackathon 2022.
 
 2. GoogleEarth_ZAC: This folder is a ZAC technology example over Google Earth Interface. 
-   You will be able to discover water quality (Chromophoric dissolved organic carbon, plastic, turbidity and chlorophyll) in Nagasaki bay JAPAN.
-   * there is a surprise in the deep water.
+You will be able to discover water quality (Chromophoric dissolved organic carbon, plastic, turbidity and chlorophyll) in Nagasaki bay JAPAN.
+* there is a surprise in the deep water.
 
 3. NFT: Is the raw image generated from the "Oil Slicks" algorithm over SAR technology of the European Space Agency Sentinel 1 Constellation.
-   The NFT has been minted over Polygon and added in the ZAC NASA hackathon Opensea Marketplace.
-   
-   https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/3600435671611439177449725509495554285025826569823093787803269924679915143228
+The NFT has been minted over Polygon and added in the ZAC NASA hackathon Opensea Marketplace.
+https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/3600435671611439177449725509495554285025826569823093787803269924679915143228
 
 4. Unreal Engine 4 project: This is the source code of ZAC project with the Metaverse digital Ocean. 
-   It can be compiled over iOS, Android, html5 and Oculus 3d glasses.
+It can be compiled over iOS, Android, html5 and Oculus 3d glasses.
 
 Thank you for this amazing experience and do not hesitate to contact us if you want to collaborate with this project: jonatan.domenech@gmail.com
