@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="7">
+            <IconStyle id="8">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9">
+                    <href>https://fs-wa-out.s3.eu-central-1.amazonaws.com/fregata_green.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="17">
+                <color>ff000000</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <GroundOverlay id="2">
+            <name>Plastic</name>
+            <Icon id="3">
+                <href>https://2-wa-out.s3.eu-central-1.amazonaws.com/S2A_MSIL2A_20220101T020101_N0301_R060_T52SFB_20220101T041543_Plastic.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>33.43490918842431</north>
+                <south>32.42926688539803</south>
+                <east>131.25652471605378</east>
+                <west>130.06384123129925</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <Placemark id="6">
+            <name>Stats</name>
+            <styleUrl>#7</styleUrl>
+            <ExtendedData>
+                <Data name="Index">
+                    <value>Plastic</value>
+                </Data>
+                <Data name="Mean">
+                    <value>0.32463438679440737</value>
+                </Data>
+                <Data name="Std">
+                    <value>0.05841371264401537</value>
+                </Data>
+                <Data name="Median">
+                    <value>0.32190414249470345</value>
+                </Data>
+                <Data name="Maximum">
+                    <value>0.69404651981022</value>
+                </Data>
+                <Data name="Minimum">
+                    <value>0.09516990189058178</value>
+                </Data>
+            </ExtendedData>
+            <Point id="5">
+                <coordinates>131.25652471605378,33.43490918842431,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
